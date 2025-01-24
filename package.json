@@ -1,6 +1,6 @@
 {
   "name": "@conversu/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Eslint configuration used by Conversu",
   "main": "index.js",
   "keywords": [
@@ -26,7 +26,7 @@
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-standard": "^17.1.0",
-    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-jsx-a11y": "^6.8.0",
     "eslint-plugin-n": "^16.6.2",
     "eslint-plugin-prettier": "^5.1.3",
